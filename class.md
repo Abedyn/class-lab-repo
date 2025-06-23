@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Abdalhafiz]
+- Certification: [Abdalhafiz Yousef Najjar]  
 
 ## Instructions
 Please replace the placeholders with your details:
